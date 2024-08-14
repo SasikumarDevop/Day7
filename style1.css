@@ -1,0 +1,24 @@
+*{
+    font-size: x-large;
+    background-color:whitesmoke;    
+}
+body{
+    border:  2px solid black;
+}
+.title{
+    text-align: center ;
+    font-size: xx-large;
+}
+table{
+    text-align: center;
+    background-color:red;
+}
+img{
+    margin-right: 10px;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 1px;
+    border-radius: 50%; 
+}
